@@ -1,4 +1,4 @@
-# Minimum Edit Distance Performance for Auto-spell Correction
+# MED Performance for Auto-spell Correction
 
 **Introduction:**
 
